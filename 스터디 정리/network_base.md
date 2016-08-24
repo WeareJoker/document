@@ -96,6 +96,54 @@ Category 별로 구분한다.
 - 100 Base T
 
 
+## _"Real"_ Network
+### OSI 7 Layer
+**OSI** == Open Systems Interconnection
+
+아래 문구를 보며 7계층을 알아보자
+
+**_`P`lease `D`o `N`ot `T`ouch `S`teve's `P`retty `A`lligator_**
+
+>**P** hysical : 물리 
+
+* 데이터를 전기적 신호로 변환하여 케이블을 이용해 전송
+* 통신단위는 Bit 기준이고, 단순히 데이터만 전송
+* **Cable, Repeater, Hub**
+
+---
+
+>**D** ata Link : 데이터 링크 
+
+* 물리계층을 통해 송수신되는 신호의 오류와 흐름을 제어
+* 정보의 신뢰성을 보장
+* 오류, 재전송, MAC
+* **Bridge, Switch**
+
+---
+
+>**N** etwork : 네트워크
+
+* 데이터를 목적지까지 빠르게 전달
+* 패킷의 경로를 선택하여 해당 경로로 패킷을 보냄.
+* **Router**
+
+>**T**: Transport 전송
+
+>**S**: Session 세션
+
+>**P**: Presentation 표현 
+
+>**A**: Application 응용
+
+---
+
+### MAC (Media Access Control)
+네트워크 상에서 서로 구분하기 위해 사용하는 주소
+
+
+
+
+
 
 >## TODO: Need Add Content
 > ---	
