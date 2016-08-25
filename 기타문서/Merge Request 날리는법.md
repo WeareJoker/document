@@ -7,22 +7,22 @@
 ## 방법
 ### 1. Project 메인에 접속합니다.
 ### 2. Merge Requests 를 누릅니다
-![1.png](.\Images\1.png)
+![1.png](https://gitlab.com/pjhs/work-proceeding/raw/be44df88f7cba42dd2d35ba37907b59ed9f29b72/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%84%9C/Images/1.png)
 
 ### 3. New Merge Request 를 누릅니다.
-![2.png](.\Images\2.png)
+![2.png](https://gitlab.com/pjhs/work-proceeding/raw/be44df88f7cba42dd2d35ba37907b59ed9f29b72/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%84%9C/Images/2.png)
 
 ### 4. 병합하고 싶은 자신의 브랜치를 선택합니다
-![3.png](.\Images\3.png)
+![3.png](https://gitlab.com/pjhs/work-proceeding/raw/be44df88f7cba42dd2d35ba37907b59ed9f29b72/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%84%9C/Images/3.png)
 
 ### 5. `Compare branches and continue` 버튼을 누릅니다.
-![4.png](.\Images\4.png)
+![4.png](https://gitlab.com/pjhs/work-proceeding/raw/be44df88f7cba42dd2d35ba37907b59ed9f29b72/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%84%9C/Images/4.png)
 
 ### 6. Merge Request에 대한 자세한 설명을 적습니다.
-![5.png](.\Images\5.png)
+![5.png](https://gitlab.com/pjhs/work-proceeding/raw/be44df88f7cba42dd2d35ba37907b59ed9f29b72/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%84%9C/Images/5.png)
 
 ### 7. 완성.
-![6.png](.\Images\6.png)
+![6.png](https://gitlab.com/pjhs/work-proceeding/raw/be44df88f7cba42dd2d35ba37907b59ed9f29b72/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%84%9C/Images/6.png)
 
 
 
